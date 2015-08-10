@@ -5,9 +5,9 @@ from ftplib import FTP
 
 global RAWfile
 port=21
-ip="10.1.111.249"
-user = 'TKMAAIT'
-password = 'mani0109'
+ip=""
+user = ''
+password = ''
 
 
 
